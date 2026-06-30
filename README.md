@@ -76,7 +76,6 @@ With expertise in modern web technologies, I build digital experiences that are 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujalshah20&theme=radical&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sujalshah20&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 </div>
 
