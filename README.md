@@ -74,10 +74,6 @@ With expertise in modern web technologies, I build digital experiences that are 
 
 <div align="center">
 
-![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujalshah20&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalshah20&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujalshah20&theme=radical&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Sujalshah20&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)
